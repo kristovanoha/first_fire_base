@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(
-        // This is the theme of your application.fgfdg
+        // This is the theme of your application.fgfdg test
         //
         // TRY THIS: Try running your application with "flutter run". You'll seefgh
         // the application has a purple toolbar. Then, without quitting the app,
