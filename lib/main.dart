@@ -22,12 +22,12 @@ class MyApp extends StatelessWidget {
               primarySwatch: Colors.blue,
             ),
     
-            supportedLocales: const [
-              Locale('en', ''),
-              Locale('cs', ''),
-              Locale('de', ''),
-              Locale('sk', ''),
-            ],
+            // supportedLocales: const [
+            //   Locale('en', ''),
+            //   Locale('cs', ''),
+            //   Locale('de', ''),
+            //   Locale('sk', ''),
+            // ],
             home: const NavigationHome(),
           );
         },
