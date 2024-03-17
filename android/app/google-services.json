@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "771210896090",
+    "firebase_url": "https://firstfirebase-1e79e-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "firstfirebase-1e79e",
+    "storage_bucket": "firstfirebase-1e79e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771210896090:android:16afdb9e64596e2e41fbe3",
+        "android_client_info": {
+          "package_name": "com.example.first_fire_base"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3aoV3jEuOUw3T8QrrlyoqkM4PNuQzT_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
